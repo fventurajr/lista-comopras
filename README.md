@@ -17,9 +17,9 @@ Lista de compras, ajudando o consumidor a escolher estabelecimentos, montar list
 * idCategoriaEstabelecimento
 * descricaoCategoriaEstabelecimento
 ## Compra
-idProduto
-idEstabelecimento
-dataCompraProduto
+* idProduto
+* idEstabelecimento
+* dataCompraProduto
 
 | categoria     | descrição            |
 |---------------|----------------------|
